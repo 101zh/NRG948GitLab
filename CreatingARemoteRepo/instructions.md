@@ -16,7 +16,8 @@ git config --global user.email "myemail@example.com"
 2. Name it something like `NRG948GitPractice`
 3. Now open that folder with VS Code\
 ![alt text](pictures/OpenFolder.png)
-4. Now right-click and create a new file
+4. Now right-click and create a new file\
+![alt text](pictures/CreateANewFile.png)
 5. Name it `message.txt`
 6. Add a greating to the file
 
